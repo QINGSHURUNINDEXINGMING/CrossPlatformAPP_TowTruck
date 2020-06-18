@@ -3,7 +3,7 @@
 * 使用技術
     * jQuery Mobile
     * 政府 Open Data
-    * Cordova/PhoneGap App
+    * Cordova/PhoneGap APP
     * Google Map API
 
 **導覽頁**
